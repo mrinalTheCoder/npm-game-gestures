@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Library for detecting hand gestures like slashes and punches for use by game devs",
   "main": "index.js",
-  "repository":  {"type": "git", "url": "https://github.com/mrinalTheCoder/npm-game-gestures.git"}
+  "repository":  {"type": "git", "url": "https://github.com/mrinalTheCoder/npm-game-gestures.git"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
