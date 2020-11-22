@@ -1,0 +1,20 @@
+{
+  "name": "game-gestures",
+  "version": "1.0.0",
+  "description": "Library for detecting hand gestures like slashes and punches for use by game devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slash",
+    "game"
+  ],
+  "author": "Mrinal Jain",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/handpose": "0.0.2",
+    "@tensorflow/tfjs-converter": "^1.7.0",
+    "@tensorflow/tfjs-core": "^1.7.4"
+  }
+}
